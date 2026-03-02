@@ -1,0 +1,24 @@
+[workspace]
+resolver = "2"
+members = [
+    "playground",
+    "01-basics",
+    "02-ownership",
+    "03-structs-enums",
+    "04-error-handling",
+    "05-collections-iterators",
+    "06-traits-generics",
+    "07-closures",
+    "08-smart-pointers",
+    "09-concurrency",
+    "10-async",
+    "11-macros",
+    "12-unsafe-ffi",
+    "projects/minigrep",
+    "projects/py-vs-rs",
+    "projects/restapi",
+    "projects/toychain",
+    "projects/raytracer",
+    "projects/tui-dash",
+    "projects/dataproc",
+]
